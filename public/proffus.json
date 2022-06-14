@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/TTVJRMD/logo-1.png",
+    "banner": "https://i.ibb.co/rwR5vTD/Group-39.png",
+    "category": [
+      {
+        "name": "Fish",
+        "img": "https://i.ibb.co/cQ2vNCF/Rectangle-3.png"
+      },
+      {
+        "name": "Crustaceans",
+        "img": "https://i.ibb.co/pLLQBRJ/Rectangle-31.png"
+      },
+      {
+        "name": "Exotic",
+        "img": "https://i.ibb.co/6JfFrps/Rectangle-32.png"
+      }
+    ],
+    "thumbnail": "https://i.ibb.co/2gsjfgx/Rectangle-60.png",
+    "faq": [
+      {
+        "question": "Velit venenatis pretium mattis consectetur massa pretium mattis ?",
+        "answer": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+      },
+      {
+        "question": "Velit venenatis pretium mattis consectetur massa pretium mattis ?",
+        "answer": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+      },
+      {
+        "question": "Velit venenatis pretium mattis consectetur massa pretium mattis ?",
+        "answer": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+      }
+    ],
+    "blog": [
+      {
+        "title": "The right quality",
+        "description": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+      },
+      {
+        "title": "The right time",
+        "description": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+      },
+      {
+        "title": "The basis of a balanced diet",
+        "description": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+      }
+    ],
+    "topics": [
+      {
+        "img": "https://i.ibb.co/mcmKN9r/Rectangle-65.png",
+        "heading": "topics you can’t miss",
+        "details": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+      },
+      {
+        "img": "https://i.ibb.co/mcmKN9r/Rectangle-80.png",
+        "heading": "how to clean/cut your seafood",
+        "details": "Nulla amet ut massa sapien nibh. Sed quis sollicitudin ut senectus nisl adipiscing posuere et a. Tincidunt consectetur sapien pellentesque vitae, nulla vitae sed feugiat. Consectetur hendrerit massa felis, et. Cursus tortor ut fames sapien a vulputate amet malesuada."
+      }
+    ]
+  }
+]
