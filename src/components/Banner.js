@@ -5,9 +5,9 @@ const Banner = () => {
     const [data] = useData();
     return (
         <div className='container my-5 mx-auto'>
-            <img src={data.banner} alt="" />
+            <img src={data.banner} alt="" className='img-fluid' />
             <div className='text-center'>
-                <h2 className='text-uppercase mb-5 fw-bold'>How it works</h2>
+                <h2 className='text-uppercase mb-5'>How it works</h2>
                 <p>Sea Basket delivers fresh sourced seafood in a few easy clicks</p>
             </div>
         </div>

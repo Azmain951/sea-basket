@@ -5,12 +5,12 @@ const Footer = () => {
     const [data] = useData();
     return (
         <div className='bg-primary py-3 px-5 text-white'>
-            <div className='container d-flex my-5'>
-                <div className='w-50'>
+            <div className='container d-block d-lg-flex my-5'>
+                <div className='w-50 mx-auto'>
                     <img src={data?.logo} alt="" />
                 </div>
-                <div className='d-flex justify-content-around align-item-center w-50'>
-                    <div className='d-flex flex-column'>
+                <div className='mx-auto mt-4 mt-lg-0 d-flex justify-content-around align-item-center w-50'>
+                    <div className='d-flex flex-column me-5 me-lg-0'>
                         <a className='text-white mb-3 text-decoration-none' href="">About Us</a>
                         <a className='text-white mb-3 text-decoration-none' href="">Privacy Policy</a>
                         <a className='text-white mb-3 text-decoration-none' href="">Support Us</a>
